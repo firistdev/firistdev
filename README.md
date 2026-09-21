@@ -60,26 +60,24 @@ O **Eclipse Keys** é uma aplicação focada em fornecer uma experiência fluida
 
 <br />
 
+
+
 <div align="center">
 
+  <!-- Estatísticas Gerais + Estatísticas Estendidas (Tema Radical) -->
   <table border="0">
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src=" https://github-stats-extended.vercel.app/api?username=firistdev&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
+          <img src="https://github-readme-stats.vercel.app/api?username=firistdev&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firistdev&layout=compact&theme=radial&hide_border=true" alt="Linguagens Mais Usadas" />
+        <a href="https://github.com/aaron-ling/github-stats-extended">
+          <img src="https://github-stats-extended.vercel.app/api?username=firistdev&theme=radical&hide_border=true" alt="Estatísticas Estendidas" />
         </a>
       </td>
     </tr>
   </table>
 
-  <br />
-
-  <!-- Contador de Visitas -->
-  <img src="https://komarev.com/ghpvc/?username=firistdev&color=0077B5&style=for-the-badge&label=VISITAS%20AO%20PERFIL" alt="Contador de Visitas" />
-
-</div>
+</div></div>
