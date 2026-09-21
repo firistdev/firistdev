@@ -66,7 +66,7 @@ O **Eclipse Keys** é uma aplicação focada em fornecer uma experiência fluida
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=firistdev&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
+          <img src=" https://github-stats-extended.vercel.app/api?username=firistdev&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
         </a>
       </td>
       <td>
